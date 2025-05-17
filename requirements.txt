@@ -1,6 +1,8 @@
 pyrofork
 git+https://github.com/pytgcalls/pytgcalls
 yt-dlp
+pyrogram
+pillow
 tgcrypto
 pytubefix
 speedtest-cli
